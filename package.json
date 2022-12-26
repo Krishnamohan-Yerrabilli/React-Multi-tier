@@ -1,0 +1,25 @@
+{
+  "name": "react-multi-tier",
+  "version": "1.0.0",
+  "description": "(A login form application)",
+  "main": "index.js",
+  "scripts": {
+    "test": "(echo \\\"Error: no test specified\\\" && exit 1)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krishnamohan-Yerrabilli/React-Multi-tier.git"
+  },
+  "keywords": [
+    "react",
+    "login",
+    "form",
+    "authentication"
+  ],
+  "author": "Krishnamohan-Yerrabilli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krishnamohan-Yerrabilli/React-Multi-tier/issues"
+  },
+  "homepage": "https://github.com/Krishnamohan-Yerrabilli/React-Multi-tier#readme"
+}
